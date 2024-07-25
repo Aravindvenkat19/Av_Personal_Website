@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+@media (max-width:576px){
+   
+}
+
+img{
+    width: 240px;
+    height: 280px;
+    box-shadow: 10px 10px 1px #374151
+    
+}
+
+#sm-icons{
+    a{
+        color: #D1D5DB;
+    }
+}
+
+#abt-sec{
+    width: 105px;
+    height: 28px;
+    background-color: #374151;
+    color: #D1D5DB;
+    border-radius: 12px;  
+}
+
+#about-sec{
+    background-color: #111827;
+    color: #D1D5DB;
+}
+
+#img-abt{
+    background-color: #030712;
+    color: #D1D5DB;
+}
+/* #boxshadow{
+    height: 280px;
+    width: 280px;
+    background-color: #374151;
+    box-shadow: 10px 10px;
+} */
